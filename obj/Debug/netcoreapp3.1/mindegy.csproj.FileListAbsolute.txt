@@ -1,0 +1,13 @@
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\obj\Debug\netcoreapp3.1\mindegy.csprojAssemblyReference.cache
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\obj\Debug\netcoreapp3.1\mindegy.AssemblyInfoInputs.cache
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\obj\Debug\netcoreapp3.1\mindegy.AssemblyInfo.cs
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\obj\Debug\netcoreapp3.1\mindegy.csproj.CoreCompileInputs.cache
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\bin\Debug\netcoreapp3.1\mindegy.exe
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\bin\Debug\netcoreapp3.1\mindegy.deps.json
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\bin\Debug\netcoreapp3.1\mindegy.runtimeconfig.json
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\bin\Debug\netcoreapp3.1\mindegy.runtimeconfig.dev.json
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\bin\Debug\netcoreapp3.1\mindegy.dll
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\bin\Debug\netcoreapp3.1\mindegy.pdb
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\obj\Debug\netcoreapp3.1\mindegy.dll
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\obj\Debug\netcoreapp3.1\mindegy.pdb
+C:\Users\KURWAANYAD\Desktop\c#\mindegy\mindegy\obj\Debug\netcoreapp3.1\mindegy.genruntimeconfig.cache
